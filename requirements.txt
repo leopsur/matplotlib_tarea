@@ -1,0 +1,6 @@
+matplotlib Creacion de datos basicos
+numpy # Calculo numerico
+pandas # Analisis de datos
+scipy #Computacion y estadisticas
+seaborn # Visualizacion de estadisticas de alto nievel
+PyQt5 # Entorno Grafico
